@@ -79,5 +79,3 @@ If you'd like to contribute, please fork the repository and use a feature branch
 The code in this project is licensed under MIT license.
 
 ---
-
-*Note: This README is a guideline. You might want to modify it according to the specifics of your project and add any additional sections if required.*
